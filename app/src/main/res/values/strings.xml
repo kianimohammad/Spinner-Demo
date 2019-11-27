@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">SpinnerDemo</string>
+    <string name="find_food">Choose</string>
+    <string name="order_food">Order</string>
+    <string name="food_name">No Food Selected</string>
+    <string-array name="foods">
+        <item>Banana</item>
+        <item>Burger</item>
+        <item>Pizza</item>
+        <item>Apple</item>
+        <item>Orange</item>
+        <item>Fries</item>
+    </string-array>
+</resources>
